@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.ruff_cache/
+.ipynb_checkpoints/
+.DS_Store
+.codegraph/
+
+# harness files — local only, never commit
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+.agent-config.toml
+.claude/
+.codex/
+.wolf/
+.specify/
